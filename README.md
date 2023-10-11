@@ -1,1 +1,1 @@
-# slide-shows.
+# slide-shows
